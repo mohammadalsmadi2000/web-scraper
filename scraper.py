@@ -68,4 +68,5 @@ if __name__=="__main__":
     print("Citations needed report:")
     print(report)
 
+
     scraper.create_report_file(URL)
