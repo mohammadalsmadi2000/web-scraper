@@ -1,6 +1,6 @@
 # Wikipedia Citations Scraper
 
-Author: Mohammad Al-Smadi
+## Author: `Mohammad Al-Smadi`
 
 This Python script allows you to scrape a Wikipedia page and retrieve the passages that need citations. It provides functions to count the number of citations needed and generate a report listing the passages.
 
